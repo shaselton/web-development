@@ -4,18 +4,22 @@
 * Java
 * Javascript
 * Erlang/Elixir
+
 ## Database
 * Postgres
 * MySQL
 * Cassandra
+
 ## Frameworks
 * Rails
 * Node.js
 * Phoenix
 * Spring
+
 ## Cloud Hosting
 * Amazon EC2
 * Google Compute Engine
+
 ## Frontend UI Libraries/Frameworks
 ## SQL Db as a Service?
 ## NoSQL Db as a Service?
