@@ -40,8 +40,8 @@
 
 ## Version Control
 * git
-** github
-** bitbucket
+  * github
+  * bitbucket
 
 ## CI
 ## Log Management
