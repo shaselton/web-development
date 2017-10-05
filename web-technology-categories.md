@@ -76,6 +76,10 @@
 ## Mobile Monitoring?
 * Crittercism?
 
+## Secret Key Management
+* CredStash
+  * [Easy Tutorial](https://blog.fugue.co/2015-04-21-aws-kms-secrets.html)
+
 # Open Connect CDN
 ## OS
 * CentosOS
