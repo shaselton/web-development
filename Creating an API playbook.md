@@ -13,10 +13,3 @@ Creating an API playbook
 1. API key service generates an (these values cannot be viewed by the user once initally generated for security reasones):
 	1.1 API Key
 	1.1 API Secret
-
-NOTE: Please store these credentials in a safe place. For your protection, we will not show them again. If you misplace your API key, you should delete this API key and generate a new one.
-
-
-API Key: reBE7nRTCD96OVYn
-
-API Secret: aZD9hyQHjIxOFJtTkaC0bls3B6Q7hWw0
