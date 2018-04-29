@@ -24,13 +24,12 @@ Roll forwards vs rollbackl (hint: if the deployment cadence is followed and opti
 * lots of shit to add here.
 
 ## Deployment Process
-* Define steps
 When changing the production environment, a certain level of communication needs to be had to:
 1. notify appropriate stakeholders that cross product, opts, comms, etc.
 1. ensure we're coordinating across teams (having simultaneous deployments in flight is prone to confusion)
 1. have a cross-team historical record of when changes were made to easy in debugging and analysis.
 
-We should never be making "quick" deployments (outside of emergencies) that only one or two people know about. *Deployments should be performed during normal business hours with no downtime.* When deploying new code to production the following series of events and notifications need to take place (NOTE: there is a strong preference for automated notifications using scripts):
+We should never be making "quick" deployments (outside of emergencies) that only one or two people know about. **Deployments should be performed during normal business hours with no downtime.** When deploying new code to production the following series of events and notifications need to take place (NOTE: there is a strong preference for automated notifications using scripts):
 * notify the deployment chat room (make sure you have one of these) (ideally including a link to relevant splunk/new relic dashboards for the deployment) when:
 	* the deployment is starting
 	* when the deployment is finished
