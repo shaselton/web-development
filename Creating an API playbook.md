@@ -13,3 +13,8 @@ Creating an API playbook
 1. API key service generates an (these values cannot be viewed by the user once initally generated for security reasones):
 	1.1 API Key
 	1.1 API Secret
+1. API management page -- any action requires 2fa verification.
+
+
+Being awesome to your clients:
+1. For the love of god, support CORS

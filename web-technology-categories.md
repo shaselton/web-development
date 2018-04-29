@@ -49,11 +49,17 @@
 # Utilities
 ## Email
 * Amazon SES
+* Mandrill
 
 ## Push Messaging
 * Urban Airship
 
 ## API Tools
+* API Gateway
+	* AWS
+	* Kong
+* [Playbook](https://github.com/shaselton/web-development/blob/master/Creating%20an%20API%20playbook.md)
+
 # DevOps
 ## Version Control
 * git
