@@ -22,6 +22,7 @@
 Roll forwards vs rollbackl (hint: if the deployment cadence is followed and optimized, a roll forward strategy should be used first)
 ## Security
 * lots of shit to add here.
+* [AWS](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 
 ## Deployment Process
 When changing the production environment, a certain level of communication needs to be had to:
