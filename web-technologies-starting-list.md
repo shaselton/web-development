@@ -59,3 +59,5 @@ config files thus this requires the services/project to be restarted for the con
 	* When a service restart is started.
 	* When a service restart is finished.
 * An email to internal stakeholders that contains a curated set of release notes associated with the release.
+
+##  Incident Response
