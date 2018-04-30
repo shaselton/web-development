@@ -51,3 +51,11 @@ When we do need to have a quick deployment, they usually take the place [hotfixe
 development workflow) as a typical deployment.
 
 ## Release Process
+When releasing a new feature to the public, there are typically a set of steps that are followed both on the engineering and "front office" (comms
+usually) fronts. From the engineering perspective, "releasing" involves turning a set of feature flags. At the moment, feature flags are loaded via
+config files thus this requires the services/project to be restarted for the config file to be reloaded. Thus:
+* Release/deployment manager notifies the chat rooms when
+	* A flag has changed. This should be happening in all environments, not just production.
+	* When a service restart is started.
+	* When a service restart is finished.
+* An email to internal stakeholders that contains a curated set of release notes associated with the release.
