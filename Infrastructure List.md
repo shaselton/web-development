@@ -42,7 +42,7 @@
 * Automated CI that runs unit tests for code	
 * Clear way to set up DNS entries to point at endpoints	
 
-## Nice To Have
+### Nice To Have
 * Footguns have been covered, it's hard to accidentally cause downtime
 * Automated CI for terraform modules
 * Automated CI for AMI builds
